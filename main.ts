@@ -247,3 +247,6 @@ scene.setBackgroundImage(img`
     99999999999999999999999999aaaaaaaaaaaaaaaaaaaaaaaaaaaffffffffffffffffffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa9999999999999999999999999999999999999999999999
     99999999999999999999999999aaaaaaaaaaaaaaaaaaaaaaaaaaaffffffffffffffffffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa9999999999999999999999999999999999999999999999
     `)
+game.splash("The end")
+game.splash("Now die.")
+game.over(false)
